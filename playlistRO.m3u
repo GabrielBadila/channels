@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ProTV.ro" tvg-logo="https://..." group-title="Romania",Pro TV (HD)
-http://127.0.0.1:6878/ace/getstream?id=6aa9b9e06e1a2ca844003ec5340725ea5be399c6&token=RaqtQOdwmN
+http://127.0.0.1:6878/ace/getstream?id=6aa9b9e06e1a2ca844003ec5340725ea5be399c6
